@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SingleSignOn</string>
+    <string name="facebook_app_id">331179737686403</string>
+    <string name="fb_login_protocol_scheme">fb331179737686403</string>
+
+</resources>
